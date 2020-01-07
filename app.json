@@ -9,7 +9,7 @@
   "success_url": "/ghost",
   "addons": [
     "jawsdb",
-    "timber_logging",
+    "timber-logging",
     "sendgrid",
     {
       "plan": "interplanetary-fission:test"
